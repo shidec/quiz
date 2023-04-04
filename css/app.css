@@ -3,12 +3,6 @@ body{
     font-size: 1.5em;
 }
 
-footer{
-    position: absolute;
-    bottom: 4px;
-    right: 4px;
-}
-
 button{
     font-family: 'Courier New', Courier, monospace;
     font-size: 1em;
@@ -33,7 +27,7 @@ ol{
     border: 1px solid #666;
     position: absolute;
     padding: 8px;
-    top: 25vh;
+    top: 19.5vh;
     min-height: 20vh;
     display: none;
 }
@@ -58,8 +52,8 @@ ol{
     }
 
     #dialogResult{
-        width: 50vw;
-        left: 25vw;
+        width: 52vw;
+        left: 24vw;
     }
 }
 
@@ -71,7 +65,7 @@ ol{
     }
 
     #dialogResult{
-        width: 80vw;
-        left: 10vw;
+        width: 82vw;
+        left: 9vw;
     }
 }
